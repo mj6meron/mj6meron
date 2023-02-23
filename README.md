@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 I am Meron Habtemichael. 
-Currently studying a Software Development Degree.
+Currently studying a Software Development Programme in HKR.se.
 Open for any collaboration!
