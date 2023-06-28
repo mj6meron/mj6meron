@@ -5,7 +5,8 @@ Hello, I am Meron Habtemichael.
 I finished my Bachelor's degree in computer science from Kristianstad University, Sweden in june 2013.
 It specialized in software development.
 
-🔭 I’m currently working with Volvo Group as a Data Engineer.<br>👯 I’m also looking to collaborate on projects in my free time<br>🌱 Currently growing in the field of Data Science and it's pretty cool.<br>💬 🤝 Let's keep in contact: Email - meronmkl@gmail.com
+🔭 
+<br>👯 I’m also looking to collaborate on projects in my free time<br>🌱 Currently growing in the field of Data Science and it's pretty cool.<br>💬 🤝 Let's keep in contact: Email - meronmkl@gmail.com
 
 
 # 💻 Tech Stack:
