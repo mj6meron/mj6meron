@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hello, I am Meron Habtemichael.
+Hello, I am Meron.
 
 I finished my Bachelor's degree in computer science from Kristianstad University, Sweden in june 2013.
 It specialized in software development.
