@@ -2,7 +2,7 @@
 
 Hello, I am Meron.
 
-Bachelor's degree in computer science from Kristianstad University, Sweden ( Class - June 2023), specializing in software development.
+Earned a Bachelor's degree in computer science from Kristianstad University, Sweden in June 2023, specializing in software development.
 
 🔭 
 <br>👯 I’m also looking to collaborate on projects in my free time<br>🌱 Currently growing in the field of Data Science and it's pretty cool.<br>💬 🤝 Let's keep in contact: Email - meronmkl@gmail.com
