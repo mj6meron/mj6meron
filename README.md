@@ -2,9 +2,9 @@
 
 Hello, I am Meron.
 
-Earned a Bachelor's degree in computer science from Kristianstad University, Sweden in June 2023, specializing in software development.
+Earned a Bachelor's degree in computer science from Kristianstad University, Sweden, specializing in software development.
 
-🔭 
+🔭  I am a software Engineer and currently working as a Data Engineer
 <br>👯 I’m also looking to collaborate on projects in my free time<br>🌱 Currently growing in the field of Data Science and it's pretty cool.<br>💬 🤝 Let's keep in contact: Email - meronmkl@gmail.com
 
 Currently working on a corporate github: meron-vgcs
