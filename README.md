@@ -2,8 +2,8 @@
 
 Name: Meron
 
-🔭  Software Engineer and currently working as a Data Engineer
-🌱 Currently growing in the field of Data Science and it's pretty cool!!
+🔭  Software Engineer and currently working as a Data Engineer <br>
+🌱 Currently growing in the field of Data Science and it's pretty cool!!  <br>
 🤝 keep in touch: meronmkl@gmail.com
 
 Currently working on a corporate github: meron-vgcs
